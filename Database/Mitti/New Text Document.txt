@@ -1,0 +1,10 @@
+{
+photos:["./Database/Mitti/1.jfif","./Database/Mitti/2.jfif","./Database/Mitti/3.jfif","./Database/Mitti/m1.jfif","./Database/Mitti/m2.jfif"]
+name:"Mitti Cafe"
+location:"https://www.google.com/maps/place/Mitti+Caf%C3%A8+-+Organic.+Fresh.+Desi./@22.7250498,75.8880562,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fd37c77c4cdf:0x4e662e38d451350b!8m2!3d22.7250498!4d75.8902449"
+price:"200",
+price_compare:"0-200",
+suitability:["Friends","Couples","Family],
+type:"Veg",
+type_compare:"1"
+}

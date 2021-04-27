@@ -1,0 +1,9 @@
+{
+photos:["./Database/Fantasy/1.jfif","./Database/Fantasy/2.jfif","./Database/Fantasy/3.jfif","./Database/Fantasy/m1.png","./Database/Fantasy/m2.jfif"]
+name:"Guru Kripa"
+location:""
+price:"350"
+price_compare:"250-350"
+suitability:["Friends","Family"]
+type:"Veg"
+}

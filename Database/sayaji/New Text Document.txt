@@ -1,0 +1,9 @@
+{
+photos:[]
+name:"Sayaji"
+location:""
+price:"1000"
+price_compare:"800-1000"
+suitability:["Friends","Couples","Family"]
+type:"Non-veg"
+}

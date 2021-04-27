@@ -1,0 +1,10 @@
+{
+photos:["./Database/Urban desi/1.jfif","./Database/Urban desi/2.jfif","./Database/Urban desi/3.jfif","./Database/Urban desi/m1.jfif","./Database/Urban desi/m2.jfif"],
+name:"Urban desi",
+location:"https://www.google.com/maps/place/Urban+Desi+Bistro/@22.7250248,75.8821751,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fdc28734497f:0x87210296370a11de!8m2!3d22.7250248!4d75.8843638",
+price:"200",
+price_compare:"0-200",
+suitability:["Friends"],
+type:"Non-veg",
+type_compare:"0"
+}

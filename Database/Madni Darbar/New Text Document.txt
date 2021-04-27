@@ -1,0 +1,10 @@
+{
+photos:["./Database/Madni Darbar/1.jfif","./Database/Madni Darbar/2.jfif","./Database/Madni Darbar/3.jfif","./Database/Madni Darbar/m1.jfif","./Database/Madni Darbar/m2.jfif"],
+name:"Madni Darbar",
+location:"https://www.google.com/maps/place/Hotel+Madni+Darbar/@22.71485,75.866511,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fd1140000001:0x65e6fc5a5f2c3894!8m2!3d22.71485!4d75.8686997",
+price:"400",
+price_compare:"201-400",
+suitability:["Family"],
+type:"Non-veg",
+type_compare:"0"
+}

@@ -1,0 +1,10 @@
+{
+photos:["./Database/nafees/1.jfif","./Database/nafees/2.jfif","./Database/nafees/3.jfif","./Database/nafees/m1.jfif","./Database/nafees/m2.jfif"],
+name:"Nafees Restaurant",
+location:"https://www.google.com/maps/dir/22.7357762,75.8650144/22.7256654,75.8877584/@22.7311495,75.8588246,14z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0",
+price:"400",
+price_compare:"201-400",
+suitability:["Friends","Family"],
+type:"Non-veg",
+type_compare:"0"
+}

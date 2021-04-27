@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Foobae</title>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+    <div class="top-container">
+     
+        <h1><span style="color:white; font-size: 1.3em; text-shadow: 6px 6px red;">F</span>OOBAE</h1>
+        
+    </div>
+      <div class="full">
+      <div class="rightside"> 
+        <form class="form" action="http://localhost:8001/results" method="POST" >
+          <div class="inline">
+            <input class="beauty" type="text" placeholder="Price"name= "price" list="prices"/>
+            <datalist id ="prices">
+                <option>0-200</option>
+                <option>201-400</option>
+                <option>401-600</option>
+                <option>601-800</option>
+                <option>801-1000</option>
+            </datalist>
+            <br><br>
+            <input class= "beauty" type="text" placeholder="Group" name ="suit" list="suitability"/>
+            <datalist id ="suitability">
+                <option>Couples</option>
+                <option>Friends</option>
+                <option>Family</option>
+            </datalist>
+            <br><br>
+            <input class="beauty"type="text" placeholder="Choice"name="Cat" list= "category"/>
+            <datalist id ="category">
+                <option>Veg</option>
+                <option>Non-veg</option>
+                <option>Both</option>
+            </datalist>
+          </div>
+          <br>
+            <button type="submit">Search</button>
+        </form>
+      </div>
+        <div class="contact-me">
+          <p style="font-family: 'Langar', cursive;" >Our Website tells you about all the best cafe's you may visit in Indore! According to your preferences......</p>
+          <h2>You may Search on!</h2>
+        </div>
+      
+      
+      <div class="bottom-container">
+    
+      </div>
+      </div>
+
+      <div class="footer">
+      <div class="footer-content">
+        <div class="footer-section about">
+          <h2 class="logo-text">About us:</h2>
+          <p style="font-family: 'Langar', cursive;">FOOBAE is a functional website which suggests you about the best suited food destinations in Indore according to your
+            comfort and suitability.This website is created with an intention to save your time and provide you with best solutions
+          quickly </p>
+          <div class="contact">
+            <span><i class="fas fa-phone"></i> &nbsp; 7974413525</span>
+            <span><i class="fas fa-envelope"></i> &nbsp; harshita13525@gmail.com</span>
+          </div>
+          <div class="socials">
+            <a href="#"><i class="fab fa-facebook"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+          </div>
+        </div>
+
+        <div class="footer-section creaters">
+          <h2 style="text-align: center;">Creaters</h2>
+          <br>
+          
+            <p style="text-align: center;">Harshita Patil</p>
+            <p style="text-align: center;">Ravi Singh</p>
+          
+        </div>
+        <div class="footer-section contact-form">
+          <h2>Contact us</h2>
+          <br>
+          <form action="index.html" method="post">
+            <input type="email" name="email" class="text-input contact-input" class="ecss" style=" color: aliceblue;"placeholder="Your email" align="center">
+            <br>
+            <textarea name="message" class="text-input contact-input" class="ecss" style="font-family: 'Langar' cursive ;color:black;"placeholder="your message..." align="center"></textarea>
+            <br>
+            <button type="submit" class="btn btn-big">
+              <i class="fas fa-envelope"></i>
+              Send
+            </button>
+          </form>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        &copy; foobae.com
+      </div>
+      </div>
+</body>
+</html>

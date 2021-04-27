@@ -1,0 +1,10 @@
+{
+photos:["./Database/Mr Beans/1.jfif","./Database/Mr Beans/2.jfif","./Database/Mr Beans/3.jfif","./Database/Mr Beans/m1.jfif","./Database/Mr Beans/m2.jfif"],
+name:"Mr.Beans",
+location:"https://www.google.com/maps/place/Mr.+Beans/@22.723283,75.8947363,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fd34580fb925:0x7e7da4bae9794d33!8m2!3d22.723283!4d75.896925",
+price:"400",
+price_compare:"201-400",
+suitability:["Friends","Couples"],
+type:"Veg",
+type_compare:"1"
+}

@@ -1,0 +1,10 @@
+{
+photos:["./Database/Kolkata roll/1.jfif","./Database/Kolkata roll/2.jfif","./Database/Kolkata roll/3.jfif","./Database/Kolkata roll/m1.jfif","./Database/Kolkata roll/m2.jfif"],
+name:"Kolkata Roll",
+location:"https://www.google.com/maps/search/old+kolkata+roll+club+indore/@22.7195212,75.8808869,15z/data=!3m1!4b1",
+price:"100",
+price_compare:"0-200",
+suitability:["Friends"],
+type:"Non-veg",
+type_compare:"0"
+}

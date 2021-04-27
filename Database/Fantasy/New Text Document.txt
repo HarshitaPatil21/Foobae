@@ -1,0 +1,10 @@
+{
+photos:["./Database/Fantasy/1.jfif","./Database/Fantasy/2.jfif","./Database/Fantasy/3.jfif","./Database/Fantasy/m1.png","./Database/Fantasy/m2.jfif"],
+name:"Fantasy",
+location:"https://www.google.com/maps/search/fantasy+bakery+indore/@22.7264355,75.8658926,14z/data=!3m1!4b1",
+price:"100",
+price_compare:"0-200",
+suitability:["Friends","Couples"],
+type:"Veg",
+type_compare:"1"
+}

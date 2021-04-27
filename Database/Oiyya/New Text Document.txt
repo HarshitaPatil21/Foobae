@@ -1,0 +1,10 @@
+{
+photos:["./Database/Oiyya/1.jfif","./Database/Oiyya/2.jfif","./Database/Oiyya/3.jfif","./Database/Oiyya/m1.jfif","./Database/Oiyya/m2.jfif"],
+name:"Oiya",
+location:"https://www.google.com/maps/place/Oiya/@22.7261293,75.8801627,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fdca1c3d1881:0x15b8fc21acbedfde!8m2!3d22.7261293!4d75.8823514",
+price:"250",
+price_compare:"201-400",
+suitability:["Friends","Couples"],
+type:"Non-veg",
+type_compare:"0"
+}

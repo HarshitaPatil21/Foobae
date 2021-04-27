@@ -1,0 +1,10 @@
+{
+photos:["./Database/Cafe Kono/1.jfif","./Database/Cafe Kono/2.jfif","./Database/Cafe Kono/3.jfif","./Database/Cafe Kono/m1.jfif","./Database/Cafe Kono/m2.jfif"],
+name:"Cafe Kono",
+location:"https://www.google.com/maps/search/cafe+kono+indore/@22.7139231,75.8678836,15z/data=!3m1!4b1",
+price:"300",
+price_compare:"201-400",
+suitability:["Couples"],
+type:"Veg",
+type_compare:1
+}

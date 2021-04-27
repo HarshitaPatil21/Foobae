@@ -1,0 +1,10 @@
+{
+photos:["./Database/Mariott/first.jfif","./Database/Mariott/second.jfif","./Database/Mariott/third.jfif","./Database/Mariott/fourth.jfif","./Database/Mariott/fifth.jfif"],
+name:"Mariott Hotel",
+location:"https://www.google.com/maps/search/marriott+indore/@22.7291234,75.8785752,14z/data=!3m1!4b1",
+price:"900",
+price_compare:"801-1000",
+suitability:["Friends","Couples","Family"],
+type:"Non-veg",
+type_compare:"0"
+}

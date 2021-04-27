@@ -1,0 +1,10 @@
+{
+photos:["./Database/Nirvana/1.jfif","./Database/Nirvana/2.jfif","./Database/Nirvana/3.jfif","./Database/Nirvana/m1.jfif","./Database/Nirvana/m2.jfif"],
+name:"Nirvana -The Cafe",
+location:"https://www.google.com/maps/place/Nirvana+-The+Cafe/@22.7619829,75.8789852,17z/data=!3m1!4b1!4m5!3m4!1s0x396303a34bace9af:0xef612c09f6d5e5f7!8m2!3d22.7619829!4d75.8811739",
+price:"250",
+price_compare:"201-400",
+suitability:["Friends","Couples","Family],
+type:"Veg",
+type_compare:"1"
+}

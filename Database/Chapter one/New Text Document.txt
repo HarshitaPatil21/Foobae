@@ -1,0 +1,10 @@
+{
+photos:["./Database/Chapter one/1.jfif","./Database/Chapter one/2.jfif","./Database/Chapter one/3.jfif","./Database/Chapter one/m1.jfif","./Database/Chapter one/m2.jfif"],
+name:"Cafe Chapter One",
+location:"https://www.google.com/maps/place/Cafe+Chapter+One/@22.7583663,75.9026115,17z/data=!3m1!4b1!4m5!3m4!1s0x39631d53c28c5665:0x1e503bc37f336f35!8m2!3d22.7583663!4d75.9048002",
+price:"400",
+price_compare:"201-400",
+suitability:["Friends","Couples"],
+type:"Veg",
+type_compare:1
+}

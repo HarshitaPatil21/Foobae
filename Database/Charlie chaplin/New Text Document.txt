@@ -1,0 +1,10 @@
+{
+photos:["./Database/Charlie chaplin/1.jfif","./Database/Charlie chaplin/2.jfif","./Database/Charlie chaplin/3.jfif","./Database/Charlie chaplin/m1.png","./Database/Charlie chaplin/m2.jfif"],
+name:"Charlie Chaplin Cafe",
+location:"https://www.google.com/maps/place/Charlie+Chaplin+coffee+house/@22.7315794,75.8880298,17z/data=!3m1!4b1!4m5!3m4!1s0x3962fd7241b850fb:0xfb71c34bc816ff94!8m2!3d22.7315794!4d75.8902185?hl=en",
+price:"150",
+price_compare:"0-200",
+suitability:["Couples"],
+type:"Veg",
+type_compare:"1"
+}
