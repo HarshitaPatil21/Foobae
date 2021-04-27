@@ -1,0 +1,34 @@
+{
+  "name": "Foo-Bae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solrnode.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "log4js": "^6.3.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "react-dev-utils": "^10.0.0",
+    "solr-node": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node solrnode",
+    "dev": "nodemon solrnode",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi4s45/FOOBAE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi4s45/FOOBAE/issues"
+  },
+  "homepage": "https://github.com/ravi4s45/FOOBAE#readme"
+}
