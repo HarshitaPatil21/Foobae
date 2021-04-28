@@ -15,16 +15,19 @@
     "solr-node": "^1.2.1"
   },
   "devDependencies": {},
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
-    "start": "node solrnode",
-    "dev": "nodemon solrnode",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node solrnode.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ravi4s45/FOOBAE.git"
   },
-  "keywords": [],
+  "keywords": [
+    "heroku"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
