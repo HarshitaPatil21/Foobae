@@ -3,7 +3,7 @@ const path =require('path')
 const express = require('express');
 const { SSL_OP_SSLEAY_080_CLIENT_DH_BUG } = require('constants');
 const app = express()
-const port = 8001
+const port = process.env.PORT || 8001
 app.set("view engine","ejs")
 const staticpath=path.join(__dirname)
 app.use(express.static(staticpath));
